@@ -1,0 +1,19 @@
+
+
+1. Platform specific widgets
+2. Layout widgets - 
+
+
+
+Container − A rectangular box decorated using BoxDecoration widgets with background, border and shadow.
+
+Center − Center its child widget.
+
+Row − Arrange its children in the horizontal direction.
+
+Column − Arrange its children in the vertical direction.
+
+Stack − Arrange one above the another.
+
+3. State maintenance widgets
+4. Platform independent / basic widgets
