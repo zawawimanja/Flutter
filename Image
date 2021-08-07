@@ -1,0 +1,11 @@
+
+
+Image − Generic image loader using ImageProvider
+
+Image.asset − Load image from flutter project’s assets
+
+Image.file − Load image from system folder
+
+Image.memory − Load image from memory
+
+Image.Network − Load image from network
