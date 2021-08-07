@@ -1,0 +1,8 @@
+Unit Testing
+Unit testing is the easiest method to test an application. 
+
+Widget Testing
+Widget testing is based on ensuring the correctness of the widget creation, rendering and interaction with other widgets as expected. 
+It goes one step further and provides near real-time environment to find more bugs.
+
+Integration Testing
