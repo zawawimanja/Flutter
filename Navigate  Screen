@@ -1,0 +1,13 @@
+1.Call Route 
+
+2. go to Second Route
+
+    Navigator.push(
+              context,
+              MaterialPageRoute(builder: (context) => SecondRoute()),
+            );
+            
+3. Back to Previous Page
+
+4. Navigator.pop(context);
+
