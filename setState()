@@ -1,0 +1,6 @@
+- tells Flutter that the widget needs to be updated on screen.
+-  an anonymous function and diff syntax
+
+ setState(() {
+    _formProgress = progress;
+  });
