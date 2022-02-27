@@ -1,0 +1,1 @@
+widgets are immutable (can’t be modified once created), Flutter stores state information in a companion class,
