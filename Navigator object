@@ -2,6 +2,8 @@
 
 top of stack
 
+Flutter has only one Navigator object.
+
 1. Declaring and initiliaze routes
 
  routes: {
