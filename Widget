@@ -17,3 +17,5 @@ Stack − Arrange one above the another.
 
 3. State maintenance widgets
 4. Platform independent / basic widgets
+
+stateful widget -  widget stores information that can change
