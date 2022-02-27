@@ -1,13 +1,10 @@
-1.Call Route 
+1.Callback function
 
-2. go to Second Route
+2. go to Second Route - using push
 
-    Navigator.push(
-              context,
-              MaterialPageRoute(builder: (context) => SecondRoute()),
-            );
-            
-3. Back to Previous Page
+  void _showWelcomeScreen() {
+  Navigator.of(context).pushNamed('/welcome');
+}
 
-4. Navigator.pop(context);
+4. Navigator.pop(context); - go to previous screen using pop
 
